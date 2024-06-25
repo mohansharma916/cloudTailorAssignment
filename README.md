@@ -192,5 +192,5 @@ Kubernetes: For scaling and orchestration, consider deploying to a Kubernetes cl
 
 ## Stay in touch
 
-- Author - [Mohan Sharma](https://kamilmysliwiec.com)
+- Author - [Mohan Sharma]
 
